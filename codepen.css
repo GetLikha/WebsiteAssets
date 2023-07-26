@@ -1,0 +1,16 @@
+.ProfileName_profileUsernameArea-gMow7 {
+  line-height: 1;
+  display: inline-block;
+  position: relative;
+  padding: 2px;
+  content: "";
+  position: absolute;
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  bottom: 0;
+  left: -2px;
+  background-color: #fbd116;
+  border-radius: 5px;
+  transition: transform 0.5s ease-out;
+  z-index: -1;
+}
